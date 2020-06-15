@@ -4,5 +4,5 @@
 
 - To-do:
   - Integration with GraphQL
-  - Integration with Payment gateways
-  - Add styled components
+  - Integration with payment gateways
+  - Add Styled Components
